@@ -132,10 +132,10 @@ The InShare Web App architecture demonstrates the interaction between the fronte
      - **Video:** [Handling File Uploads](https://www.youtube.com/watch?v=srPXMt1Q0nY)
   2. Design a drag-and-drop interface.
      - **Reading:** [HTML Drag-and-Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)  
-     - **Video:** [Drag-and-Drop Tutorial](https://www.youtube.com/watch?v=MbXJj6T9fY0)
+     - **Video:** [Drag-and-Drop Tutorial](https://www.youtube.com/watch?v=4AHot187Lj0)
   3. Implement a file upload progress bar.
-     - **Reading:** [CSS Progress Bar](https://www.w3schools.com/howto/howto_css_progressbar.asp)  
-     - **Video:** [Creating a Progress Bar](https://www.youtube.com/watch?v=6ZcuMNQeXkI)
+     - **Reading:** [CSS Progress Bar](https://www.w3schools.com/w3css/w3css_progressbar.asp)  
+     - **Video:** [Creating a Progress Bar](https://www.youtube.com/watch?v=basf1lH1H-E)
 
 - **Deliverables:**
   - Functional drag-and-drop file upload system with a progress bar.
