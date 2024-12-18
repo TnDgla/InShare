@@ -101,6 +101,7 @@ This section outlines the interaction between users and the application:
 
 ### **System Architecture**
 The InShare Web App architecture demonstrates the interaction between the frontend, backend, database, and third-party services like SMTP for email.
+![image](https://github.com/user-attachments/assets/14c8344e-3df6-4c6b-ae2a-66df14e3bb82)
 
 ---
 
