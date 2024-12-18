@@ -105,11 +105,7 @@ The InShare Web App architecture demonstrates the interaction between the fronte
 
 ---
 
-### **Project Structure for Feature Implementation**
-This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
-
-**NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
-
+ 
 ---
 
 ## **Week-by-Week Plan**
