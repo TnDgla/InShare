@@ -180,13 +180,13 @@ The InShare Web App architecture demonstrates the interaction between the fronte
 - **Tasks:**
   1. Deploy the backend to Heroku.
      - **Reading:** [Deploying Node.js Apps](https://devcenter.heroku.com/articles/deploying-nodejs)  
-     - **Video:** [Heroku Deployment Guide](https://www.youtube.com/watch?v=9kLR4pqzkQU)
+     - **Video:** [Heroku Deployment Guide](https://www.youtube.com/watch?v=maNWl202vy4)
   2. Deploy the frontend to Netlify or Vercel.
      - **Reading:** [Netlify Deployment](https://docs.netlify.com/)  
-     - **Video:** [Deploying on Netlify](https://www.youtube.com/watch?v=8lGpZkjnkt4)
+     - **Video:** [Deploying on Netlify](https://www.youtube.com/watch?v=8x0Dty5D6CA)
   3. Test the application for performance and bugs.
      - **Reading:** [Testing Web Applications](https://www.w3schools.com/js/js_validation.asp)  
-     - **Video:** [Testing Web Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg)
+     - **Video:** [Testing Web Apps](https://www.youtube.com/watch?v=zuKbR4Q428o)
 
 - **Deliverables:**
   - Fully deployed and tested InShare web app.
