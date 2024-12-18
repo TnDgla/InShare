@@ -150,10 +150,10 @@ The InShare Web App architecture demonstrates the interaction between the fronte
      - **Video:** [Working with URLs in Node.js](https://www.youtube.com/watch?v=xZhc9wW7sI4)
   2. Use Nodemailer for sending email links.
      - **Reading:** [Nodemailer Docs](https://nodemailer.com/about/)  
-     - **Video:** [Nodemailer Tutorial](https://www.youtube.com/watch?v=yN3qc9it9xA)
+     - **Video:** [Nodemailer Tutorial](https://www.youtube.com/watch?v=u-_Ygo2wcrs)
   3. Add a copy-to-clipboard feature for file links.
      - **Reading:** [Clipboard API Docs](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)  
-     - **Video:** [Clipboard API Usage](https://www.youtube.com/watch?v=Jb9pOB5zfcY)
+     - **Video:** [Clipboard API Usage](https://www.youtube.com/watch?v=hoXKylYuaVc)
 
 - **Deliverables:**
   - Shareable link generation and email functionality.
